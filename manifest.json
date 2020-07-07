@@ -9,7 +9,7 @@
   },
   
   "app":{
-    "urls":["https://miniurl.id/?ref=chromeapp"],
+    "urls":["https://miniurl.id/"],
     "launch":{
       "web_url":"https://miniurl.id/?ref=chromeapp"
     }
