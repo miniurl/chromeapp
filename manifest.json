@@ -1,0 +1,17 @@
+{
+  "manifest_version":2,
+  "name":"Miniurl.id",
+  "version":"2",
+  "description":"Create a customized shortened link under 10 seconds. Miniurl.id helps you create a customized link without registration.",
+  
+  "icons":{
+    "1280":"logo.png"
+  },
+  
+  "app":{
+    "urls":["https://miniurl.id/?ref=chromeapp"],
+    "launch":{
+      "web_url":"https://miniurl.id/?ref=chromeapp"
+    }
+  }
+}
