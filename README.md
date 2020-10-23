@@ -9,4 +9,4 @@ Install Procedure:
 5. Click Load Unpacked
 6. Select chromeapp-master folder
 
-Install Tutoral Video: https://content.jwplatform.com/videos/089XAxNm-2nnS5eYO.mp4
+<a href="https://miniurl.id/tools/link-click-analytics?ref=github&page=https%3A%2F%2Fgithub.com%2Fminiurl%2Fchromeapp&redirto=https://content.jwplatform.com/videos/089XAxNm-2nnS5eYO.mp4&event=watch_tutorial&message=chrome_app_launcher">Install Tutoral Video</a>
