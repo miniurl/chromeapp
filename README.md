@@ -1,5 +1,5 @@
 # chromeapp
-Chrome App for Miniurl.id
+Miniurl.id launcher Chrome App
 
 Install Procedure:
 1. Download the .zip file or click [here](https://miniurl.id/tools/link-click-analytics?ref=github&page=https%3A%2F%2Fgithub.com%2Fminiurl%2Fchromeapp&redirto=https%3A%2F%2Fgithub.com%2Fminiurl%2Fchromeapp%2Farchive%2Fmaster.zip&event=download&message=chrome_app_launcher)
